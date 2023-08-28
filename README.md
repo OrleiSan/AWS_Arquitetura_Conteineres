@@ -2,4 +2,4 @@
 
 
 
-<img align="center" alt="html5" src="https://github.com/OrleiSan/AWS_Arquitetura_Conteineres/blob/main/outra%20aquitetura%20ecs%20docker.JPG?raw=true">
+<img align="center" alt="html5" src="https://github.com/OrleiSan/AWS_Arquitetura_Conteineres_Docker/blob/main/Arquitetura.drawio.png?raw=true">
